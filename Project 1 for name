@@ -1,0 +1,9 @@
+input("What is your name?")
+print("Mingalarpr,Zaw Myo Aung")
+age = int(input("What's your age?"))
+
+if age <= 18:
+ print("You're a student")
+else:
+ print("You're a factory worker")
+ 
